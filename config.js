@@ -1,7 +1,7 @@
 /**
    * Create By Dika Ardnt.
    * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
+   * Contact Me on wa.me/62895322458420
    * Follow https://github.com/nazedev
 */
 
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6281235667201']
+global.ownernomer = "6281235667201"
+global.premium = ['6281235667201']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Rian'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
