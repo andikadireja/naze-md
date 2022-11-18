@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/62895322458420
+   * Create By Dika storee
+   * Recode By Dikaa
+   * Contact Me on wa.me/6285770575380
    * Follow https://github.com/nazedev
 */
 
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281235667201']
-global.ownernomer = "6281235667201"
-global.premium = ['6281235667201']
-global.packname = 'Sticker By'
-global.author = 'Rian'
+global.owner = ['6285770575380']
+global.ownernomer = "6285770575380"
+global.premium = ['6285770575380']
+global.packname = 'stiker by'
+global.author = 'Dikaabot'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -65,9 +65,9 @@ global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
 global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Dikaabot'
+global.akulaku = 'Bot By Dikaa'
+global.ytname = 'YT Dikaastore' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
